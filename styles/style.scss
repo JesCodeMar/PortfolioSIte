@@ -521,3 +521,12 @@ header{
     opacity: 1;
     transform: scale(1);
 }
+
+//Contact Information
+.contact-content-con{
+    display: flex;
+    padding-top: 3.5rem;
+    .left-contact{
+        flex: 2;
+    }
+}

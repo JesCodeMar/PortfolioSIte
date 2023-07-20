@@ -518,4 +518,12 @@ header {
 .project-item:hover .hover-item {
   opacity: 1;
   transform: scale(1);
+}
+
+.contact-content-con {
+  display: flex;
+  padding-top: 3.5rem;
+}
+.contact-content-con .left-contact {
+  flex: 2;
 }/*# sourceMappingURL=style.css.map */
