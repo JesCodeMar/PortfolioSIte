@@ -647,7 +647,7 @@ header {
 .contact-content-con .right-contact .input-control-2 :last-child {
   margin-left: 1.5rem;
 }
-.contact-content-con .right-contact .btn-con {
+.contact-content-con .right-contact .submit-btn {
   display: flex;
   justify-content: flex-start;
 }/*# sourceMappingURL=style.css.map */
